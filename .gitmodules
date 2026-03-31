@@ -1,0 +1,3 @@
+[submodule "file-servicem"]
+	path = file-servicem
+	url = https://github.com/Nethmi-Kaveesha/file-service.git
